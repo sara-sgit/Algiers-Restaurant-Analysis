@@ -1,9 +1,12 @@
 # 🍽️ Algiers Restaurant Market Analysis
 
-This project provides a data-driven exploration of the restaurant landscape in Algiers. Using Excel for data cleaning and pivot table analysis, it uncovers insights into restaurant types, customer preferences, geographic performance, and emerging opportunities for both investors and food delivery platforms.
+
 ---
 
+This project provides a data-driven exploration of the restaurant landscape in Algiers. Using Excel for data cleaning and pivot table analysis, it uncovers insights into restaurant types, customer preferences, geographic performance, and emerging opportunities for both investors and food delivery platforms.
+
 ## Dataset used 
+
 
 <a href="https://github.com/sara-sgit/Algiers-Restaurant-Analysis/blob/main/Dataset.zip" target="_blank">Download Excel Project Dataset</a>
 <a href="https://github.com/sara-sgit/Algiers-Restaurant-Analysis/blob/main/Algiers%20Restaurant%20Analysis.pdf" target="_blank">Download MetaData File </a>

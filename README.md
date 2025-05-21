@@ -115,9 +115,7 @@ Some cuisines are rare but receive high average ratings, signaling strong unmet 
 ### 📦 What Platforms Should Do:
 1. **Prioritize high-rated, low-supply cuisines** (Indian, Italian, Chinese)
 2. **Promote BBQ** — a proven high-engagement niche
-3. **Fix underperforming zones** by curating vendors in Sidi M’Hamed, Alger Centre
-4. **Champion quality fast food** to meet demand and improve ratings
-5. **Use review data** to boost discoverability of top-performing partners
+
 
 ---
 

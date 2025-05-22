@@ -3,13 +3,13 @@
 
 ---
 
-This project provides a data-driven exploration of the restaurant landscape in Algiers. Using Excel for data cleaning and pivot table analysis, it uncovers insights into restaurant types, customer preferences, geographic performance, and emerging opportunities for both investors and food delivery platforms.
+This project provides a data-centric exploration of the restaurant ecosystem in Algiers, using Excel for data cleaning, pivot analysis, and dashboard creation. It aims to uncover market gaps, customer behavior, and location-based performance, offering strategic insights for investors, restaurant owners, and food delivery platforms.
 
 ## Dataset used 
 
 
-<a href="https://github.com/sara-sgit/Algiers-Restaurant-Analysis/blob/main/Dataset.zip" target="_blank">Download Excel Project Dataset</a>
-<a href="https://github.com/sara-sgit/Algiers-Restaurant-Analysis/blob/main/Algiers%20Restaurant%20Analysis.pdf" target="_blank">Download MetaData File </a>
+- <a href="https://github.com/sara-sgit/Algiers-Restaurant-Analysis/blob/main/Dataset.zip" target="_blank">Main Dataset</a>   
+- <a href="https://github.com/sara-sgit/Algiers-Restaurant-Analysis/blob/main/Algiers%20Restaurant%20Analysis.pdf" target="_blank">Metadata </a>
 
 
 ## 🔍 Key Questions
@@ -51,7 +51,7 @@ Data Cleaning
 
 - Removed duplicates and inconsistencies from the dataset.
 - Handled missing values by imputing or removing them as appropriate.
-- Standardized data formats ( Some areas are very close  e.g., Hassiba , Alger centre Normalized them).
+- Standardized area names (e.g., Hassiba and Alger Centre merged for consistency).
 
 Exploratory Data Analysis (EDA)
 
@@ -118,6 +118,7 @@ Some cuisines are rare but receive high average ratings, signaling strong unmet 
 ### 📦 What Platforms Should Do:
 1. **Prioritize high-rated, low-supply cuisines** (Indian, Italian, Chinese)
 2. **Promote BBQ** — a proven high-engagement niche
+3. **Optimize vendor** selection in low-performing saturated areas
 
 
 ---
@@ -125,6 +126,7 @@ Some cuisines are rare but receive high average ratings, signaling strong unmet 
 
 
 ## 📫 Contact
-For suggestions or collaboration, feel free to reach out via GitHub Issues or Pull Requests.
-
+Interested in collaborating, suggesting improvements, or reusing this analysis?
+Open an issue or submit a pull request directly on this repo.
+Let’s connect!
 
